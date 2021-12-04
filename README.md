@@ -1,7 +1,7 @@
 #Entrega: Trabalhando em equipe com git.
 
-## Fato sobre <nome do dev>
+## Fato sobre <Poliana Arruda>
 
-1. O seu Nome;
-2. Um pouco sobre você;
-3. Comentário sobre o seu relacionamento com a TI;
+1. Poliana Arruda;
+2. Formada em administração de empresas e web desing;
+3. Fiz um curso a um tempo atras e dei HTML e gostei. E tive curiosidade de programar.
